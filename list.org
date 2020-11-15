@@ -1,0 +1,16 @@
+#+title: Zennor's PC
+#+author: Tomaz GdA
+
+#+OPTIONS: author:nil date:nil
+#+OPTIONS: toc:nil
+
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
+
+* Builds
+
+** My favourite 
+
+| CPU      | GPU       | MB         | RAM          | CASE  | PSU  | Storage   |
+|----------+-----------+------------+--------------+-------+------+-----------|
+| i3 10100 | gtx 1660s | b460m DS3H | 16gb 3200Mhz | h510i | 500w | 512gb m.2 |
+|          |           |            |              |       |      |           |
