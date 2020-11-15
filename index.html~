@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2020-11-15 Sun 14:40 -->
+<!-- 2020-11-15 Sun 14:39 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Zennor's PC</title>
@@ -244,12 +244,12 @@ for the JavaScript code in this tag.
 <div id="content">
 <h1 class="title">Zennor's PC</h1>
 
-<div id="outline-container-orgfcb84aa" class="outline-2">
-<h2 id="orgfcb84aa"><span class="section-number-2">1</span> Builds</h2>
+<div id="outline-container-orgf12a792" class="outline-2">
+<h2 id="orgf12a792"><span class="section-number-2">1</span> Builds</h2>
 <div class="outline-text-2" id="text-1">
 </div>
-<div id="outline-container-org63b6d5e" class="outline-3">
-<h3 id="org63b6d5e"><span class="section-number-3">1.1</span> My personal favourite</h3>
+<div id="outline-container-orgd243b53" class="outline-3">
+<h3 id="orgd243b53"><span class="section-number-3">1.1</span> My personal favourite</h3>
 <div class="outline-text-3" id="text-1-1">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -322,38 +322,50 @@ for the JavaScript code in this tag.
 <td class="org-left">54.99</td>
 <td class="org-left"><b>615.98</b></td>
 </tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 </tbody>
 </table>
 </div>
 </div>
 
-<div id="outline-container-org6a30d57" class="outline-3">
-<h3 id="org6a30d57"><span class="section-number-3">1.2</span> AMD - Budget</h3>
+<div id="outline-container-orgf90633f" class="outline-3">
+<h3 id="orgf90633f"><span class="section-number-3">1.2</span> AMD - Budget</h3>
 </div>
 
-<div id="outline-container-orgfab24d1" class="outline-3">
-<h3 id="orgfab24d1"><span class="section-number-3">1.3</span> AMD - Medicore</h3>
+<div id="outline-container-org7a5631b" class="outline-3">
+<h3 id="org7a5631b"><span class="section-number-3">1.3</span> AMD - Medicore</h3>
 </div>
 
-<div id="outline-container-org65ddbca" class="outline-3">
-<h3 id="org65ddbca"><span class="section-number-3">1.4</span> AMD - High</h3>
+<div id="outline-container-org3b0ede3" class="outline-3">
+<h3 id="org3b0ede3"><span class="section-number-3">1.4</span> AMD - High</h3>
 </div>
 
-<div id="outline-container-org2913ba1" class="outline-3">
-<h3 id="org2913ba1"><span class="section-number-3">1.5</span> Intel - Budget</h3>
+<div id="outline-container-orgcbea97c" class="outline-3">
+<h3 id="orgcbea97c"><span class="section-number-3">1.5</span> Intel - Budget</h3>
 </div>
 
-<div id="outline-container-orgc196f7a" class="outline-3">
-<h3 id="orgc196f7a"><span class="section-number-3">1.6</span> Intel - Medicore</h3>
+<div id="outline-container-org96d046b" class="outline-3">
+<h3 id="org96d046b"><span class="section-number-3">1.6</span> Intel - Medicore</h3>
 </div>
 
-<div id="outline-container-org470804d" class="outline-3">
-<h3 id="org470804d"><span class="section-number-3">1.7</span> Intel - High</h3>
+<div id="outline-container-orgafa9983" class="outline-3">
+<h3 id="orgafa9983"><span class="section-number-3">1.7</span> Intel - High</h3>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2020-11-15 Sun 14:40</p>
+<p class="date">Created: 2020-11-15 Sun 14:39</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

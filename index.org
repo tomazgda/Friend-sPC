@@ -8,10 +8,23 @@
 
 * Builds
 
-** My favourite 
+** My personal favourite 
 
-| CPU      | GPU       | MB         | RAM          | CASE  | PSU  | Storage   |
-|----------+-----------+------------+--------------+-------+------+-----------|
-| i3 10100 | gtx 1660s | b460m DS3H | 16gb 3200Mhz | h510i | 500w | 512gb m.2 |
-|          |           |            |              |       |      |           |
-|          |           |            |              |       |      |           |
+|          | *CPU*      | *GPU*       | *MB*         | *RAM*          | *CASE*      | *PSU*    | *Storage*   | Total  |
+|----------+----------+-----------+------------+--------------+-----------+--------+-----------+--------|
+| *Name*     | i3 10100 | gtx 1660s | b460m DS3H | 16gb 3200Mhz | NZXTh510i | 500w   | 512gb m.2 |        |
+| *Link*     | [[https://www.amazon.co.uk/Intel-i3-10100-3-60GHz-Socket-LGA1200/dp/B0883MTJSR/ref=sr_1_3?dchild=1&keywords=i3&qid=1605450759&quartzVehicle=16-175&sr=8-3][Amazon]]   | [[https://www.amazon.co.uk/Gigabyte-GeForce-GTX-1660-SUPER/dp/B07ZPM2BVR/ref=sr_1_5?dchild=1&keywords=gpu&qid=1605450791&sr=8-5][Amazon]]    | [[https://www.amazon.co.uk/Gigabyte-B460M-DS3H-Motherboard-Intel/dp/B08BLHSWJD/ref=sr_1_13?dchild=1&keywords=lga+1200&qid=1605450826&sr=8-13][Amazon]]     | [[https://www.amazon.co.uk/Corsair-CMK16GX4M2B3200C16-Vengeance-Performance-Desktop/dp/B0143UM4TC/ref=sr_1_5?dchild=1&keywords=ram&qid=1605450857&quartzVehicle=29-411&sr=8-5][Amazon]]       | [[https://www.amazon.co.uk/NZXT-H510-Management-Water-Cooling-Construction/dp/B07SGWLD2C/ref=sr_1_4?dchild=1&keywords=pc+case&qid=1605450877&sr=8-4][Amazon]]    | [[https://www.amazon.co.uk/Aerocool-Integrator-Efficiency-Mainstream-Systems/dp/B00JKVHKSU/ref=sr_1_3?dchild=1&keywords=psu&qid=1605450896&sr=8-3][Amazon]] | [[https://www.amazon.co.uk/Blue-SN550-500GB-High-Performance-Pcie/dp/B07YFF3JCN/ref=sr_1_4?crid=3BPELHQGHU3GM&dchild=1&keywords=m.2+ssd&qid=1605450914&sprefix=m.2+ss%2Caps%2C162&sr=8-4][Amazon]]    |        |
+| *Price(£)* | 106.33   | 208.87    | 78.99      | 64.95        | 68.86     | 32.99  | 54.99     | *615.98* |
+#+TBLFM: @4$9=vsum($2..$8)
+
+** AMD - Budget
+
+** AMD - Medicore
+
+** AMD - High
+
+** Intel - Budget
+
+** Intel - Medicore
+
+** Intel - High
